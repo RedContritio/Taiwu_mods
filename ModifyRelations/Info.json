@@ -1,0 +1,11 @@
+﻿{
+  "Id": "ModifyRelations",
+  "DisplayName": "关系修改",
+  "Author": "炽翼幻灵",
+  "Version": "1.0.1",
+  "AssemblyName": "ModifyRelations.dll",
+  "EntryMethod": "ModifyRelations.Main.Load",
+  "ManagerVersion": "0.12.2",
+  "HomePage": "https://nga.178.com/read.php?tid=22310544",
+  "Repository": "https://raw.githubusercontent.com/phorcys/Taiwu_mods/master/Repository.json"
+}
